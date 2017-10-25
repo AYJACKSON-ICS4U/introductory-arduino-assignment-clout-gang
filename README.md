@@ -1,3 +1,3 @@
 # Clout gang's arduino assignment
 
-## No clout, no paper, no sauce, juice
+## No sauce, no paper, no clout, juice
