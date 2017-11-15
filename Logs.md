@@ -13,6 +13,6 @@ We updated our circuit board to accommodate two lights, the first light came on 
 
 ### Week 4
 
-This week we added a delay in milliseconds, we've posted this code in the repository. We also were able to print the time on the serial moniter so you could see it as it was running.
+This week we added a delay in milliseconds, we've posted this code in the repository. We also were able to print the time on the serial moniter so you could see it as it was running. 
 
 
