@@ -19,4 +19,8 @@ This week we added a delay in milliseconds, we've posted this code in the reposi
 
 This week's program modification can be found in [this](https://github.com/AYJACKSON-ICS4U/introductory-arduino-assignment-clout-gang/blob/master/LED%20on%7Coff%20with%20milli%20delay.ino) repository.
 
+### Week 5
+
+This week we worked on using just millis to fix the debounce problem on our board. We found a debounce program and modified it and fixed it so it worked for our board and it kind of worked but still wasn't great and we are hoping to find a better more permanent solution for next week.
+
 
