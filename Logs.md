@@ -23,4 +23,8 @@ This week's program modification can be found in [this](https://github.com/AYJAC
 
 This week we worked on using just millis to fix the debounce problem on our board. We found a debounce program and modified it and fixed it so it worked for our board and it kind of worked but still wasn't great and we are hoping to find a better more permanent solution for next week.
 
+### Week 6
+
+We've gotten the millis() funciton to work and toggle LEDS, however they are doing it automatically. We were not able to implement the press of the button into changing the state of the LED, the LEDs just work on their own. We were, however, successful in making both our LEDs flash now, by simplky taking out the resistor and adding a regular cable in its place. Next week we will try and modify the blinking program to use the button rather than moving automatically.
+
 
